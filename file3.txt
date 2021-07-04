@@ -1,0 +1,7 @@
+File1.txt
+This is my first project
+using git repository
+file2.txt
+This is my second file..
+two lines of code..
+this is a sample git project
